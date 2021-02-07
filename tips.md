@@ -3,7 +3,7 @@
 Some helpful tips/guidance to get started with AsciiDoc ( https://github.com/asciidoc/asciidoc ) and leverage DAPS ( https://github.com/openSUSE/daps )
 
 * example directory structure
-...
+~~~text
  ./DC-sample (DAPS configuration file, referencing which AsciiDoc file)
  ./adoc
        /sample.adoc			(example AsciiDoc file)
@@ -16,4 +16,4 @@ Some helpful tips/guidance to get started with AsciiDoc ( https://github.com/asc
              /svg
                  /sample.svg	(example image, preferred format)
  ./build				(created during DAPS output generation)
-...
+~~~
