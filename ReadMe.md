@@ -27,5 +27,5 @@ Quickstart ...
     - cd to your local directory where it landed (or was uncompressed)
   - test that you have all the tooling in place to generate an output
     - e.g. daps --force -d DC-sample html
-    - test with a web browser, open the file:///localDirectoryName/build/sample/html/sample_draft/index.htm
+    - test with a web browser, open the file:///localDirectoryName/build/sample/html/sample_draft/index.html
 

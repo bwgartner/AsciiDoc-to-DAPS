@@ -1,5 +1,5 @@
 ifdef::env-github[]
-:imagesdir: https://github.com/bwgartner/suse-doc/blob/master/AsciiDoc/images/src/png/
+:imagesdir: https://github.com/bwgartner/AsciiDoc-to-DAPS/blob/main/images/src/png/
 endif::[]
 
 == Sample AsciiDoc
