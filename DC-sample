@@ -1,0 +1,25 @@
+# toggle draft mode off when completed
+DRAFT=yes
+
+## ------------------------------------------------------
+## DAPS configuration file
+## See /etc/daps/config for documentation of the settings
+## ------------------------------------------------------
+
+# Filename of the set/book
+MAIN="sample.adoc"
+
+# Custom Stylesheet directory
+STYLEROOT="/usr/share/xml/docbook/stylesheet/suse2013-ns/"
+
+# Document type that will be generated (article, book, manpage)
+ADOC_TYPE="book"
+
+# Postprocessing on asciidoc-generated XML
+ADOC_POST="yes"
+
+# AsciiDoc Attributes
+ADOC_ATTRIBUTES=" --attribute env-daps=1"
+# append additional/conditional attributes
+ADOC_ATTRIBUTES+=" --attribute SeeThis=1"
+

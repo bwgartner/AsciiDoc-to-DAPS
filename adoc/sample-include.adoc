@@ -1,0 +1,7 @@
+
+// simple include file example
+
+Add an extension of content
+
+TIP: Easy to leverage other content with includes
+
